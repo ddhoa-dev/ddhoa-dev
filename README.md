@@ -1,11 +1,9 @@
-# <h1 align="center">Hi, I'm Đỗ Đạt Hoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="35"></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7F7F7&background=0e0e0e&center=true&vCenter=true&width=500&height=50&lines=Fullstack+Developer+%7C+DevOps+Engineer;Architecting+scalable+systems;Automating+delivery+pipelines;Creating+seamless+experiences" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Do%20Dat%20Hoa&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Crafting%20cool%20thing%20with%20code&descSize=18&fontAlign=center" alt="ddhoa-dev capsule render" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Do%20Dat%20Hoa&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Crafting%20cool%20thing%20with%20code&descSize=18&fontAlign=center" alt="ddhoa-dev capsule render" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7F7F7&background=0e0e0e&center=true&vCenter=true&width=500&height=50&lines=Fullstack+Developer+%7C+DevOps+Engineer;Architecting+scalable+systems;Automating+delivery+pipelines;Creating+seamless+experiences" alt="Typing SVG" />
 </p>
 
 ---
