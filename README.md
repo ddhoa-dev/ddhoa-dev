@@ -10,7 +10,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  Final-year IT student at <b>Can Tho University</b>, focused on <b>.NET</b>, <b>DevOps</b> and <b>Unity</b>. I love turning complex logic into smooth, automated experiences.
+  Final-year IT student at <b>Can Tho University</b>, focused on <b>.NET</b>, <b>DevOps</b> and <b>Unity</b>. Driven to transform innovative sparks into finished products with relentless focus.
 </p>
 
 ---
