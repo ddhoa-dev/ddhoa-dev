@@ -43,6 +43,7 @@
 | **[VisionGame](https://github.com/ddhoa-dev/VisionGame)** | Real-time multiplayer location pinpointing game. | `Socket.IO` `Node.js` `React` |
 | **[Cafe-System](https://github.com/ddhoa-dev/cafe-management-system-dotnet)** | Multi-store management with automated stock deduction. | `.NET 8` `MVC` `EF Core` |
 | **[Blackjack-Dungeon](https://github.com/ddhoa-dev/Blackjack-Dungeon)** | A game merging classic Blackjack rules with Roguelike progression. | `Unity` `C#` `DOTween` |
+| **[Cine-Verse](https://github.com/ddhoa-dev/CineVerse)** | A web application that allows users to discover, search, and review movies. | `Vue` `Node.js` `Express.js` |
 ---
 
 
