@@ -50,9 +50,6 @@
 
 <h2 align="center">📊 Github Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddhoa-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="ddhoa-dev github stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddhoa-dev&layout=compact&theme=tokyonight&hide_border=true" alt="ddhoa-dev top languages" />
 </p>
 
